@@ -1,1 +1,1 @@
-# CNN---Image-Classification---TensorFlow-and-Keras
+# CNN---Image-Classification - Greyscale---TensorFlow-and-Keras
